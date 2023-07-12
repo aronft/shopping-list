@@ -12,7 +12,6 @@ module.exports = {
     parserOptions: {
         ecmaVersion: 'latest',
         sourceType: 'module',
-        project: true,
         tsconfigRootDir: __dirname,
     },
     plugins: ['react-refresh', 'simple-import-sort'],
