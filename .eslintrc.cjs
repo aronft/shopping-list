@@ -17,5 +17,6 @@ module.exports = {
     rules: {
         'simple-import-sort/imports': 'error',
         'react/react-in-jsx-scope': 'off',
+        'react/no-unescaped-entities': 0,
     },
 };
