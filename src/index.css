@@ -1,3 +1,17 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+    font-family: 'Quicksand';
+    src: url('/public/fonts/quicksand-500.woff2');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Quicksand';
+    src: url('/public/fonts/quicksand-700.woff2');
+    font-weight: 700;
+    font-style: normal;
+}
